@@ -1,0 +1,65 @@
+{
+    "productos": [
+      {
+        "nombre": "¡Mi cuerpo por dentro!",
+        "precio_cop": 90000,
+        "precio_usd": 22.00,
+        "imagen": "assets/img/miCuerpoPorDentro.jpg"
+      },
+      {
+        "nombre": "¡Como está el día de hoy!",
+        "precio_cop": 90000,
+        "precio_usd": 22.00,
+        "imagen": "assets/img/comoEstaElDiaDeHoy.jpg"
+      },
+      {
+        "nombre": "¡Tiro al blanco!",
+        "precio_cop": 35000,
+        "precio_usd": 8.50,
+        "imagen": "assets/img/tiroAlBlanco.jpg"
+      },
+      {
+        "nombre": "Alimentos",
+        "precio_cop": 55000,
+        "precio_usd": 13.50,
+        "imagen": "assets/img/Alimentos.jpg"
+      },
+      {
+        "nombre": "Gusanito comelón ",
+        "precio_cop": 45000,
+        "precio_usd": 11.00,
+        "imagen": "assets/img/gusanitoComelon.jpg"
+      },
+      {
+        "nombre": "Ensarto y coso",
+        "precio_cop": 45000,
+        "precio_usd": 11.00,
+        "imagen": "assets/img/ensartoYCoso.jpg"
+      },
+      {
+        "nombre": "Juego de memoria",
+        "precio_cop": 35000,
+        "precio_usd": 8.50,
+        "imagen": "assets/img/juegoDeMemoria.jpg"
+      },
+      {
+        "nombre": "Triki",
+        "precio_cop": 25000,
+        "precio_usd": 6.00,
+        "imagen": "assets/img/Triki.jpg"
+      },
+      {
+        "nombre": "Bolsos interactivos de diferentes temáticas",
+        "precio_cop": 95000,
+        "precio_usd": 23.00,
+        "imagen": "assets/img/bolsosInteractivos.jpg"
+      },
+      {
+        "nombre": "Golosa",
+        "precio_cop": 95000,
+        "precio_usd": 23.00,
+        "imagen": "assets/img/golosa.jpg"
+      }
+    ]
+  }
+  
