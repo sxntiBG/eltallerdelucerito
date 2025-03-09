@@ -18,7 +18,7 @@
 header {
     background-color: var(--principal);
     display: flex;
-    padding: 15px 100px;
+    padding: 0 100px;
     justify-content: space-between;
     align-items: center;
     position: fixed;
@@ -28,7 +28,7 @@ header {
     border-bottom: 1px solid black;
 }
 header img {
-    width: 70px;
+    width: 100px;
     border-radius: 50px;
 }
 ul {
