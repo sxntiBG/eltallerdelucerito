@@ -59,6 +59,12 @@
         "precio_cop": 95000,
         "precio_usd": 23.00,
         "imagen": "assets/img/golosa.jpg"
+      },
+      {
+        "nombre": "Monstruos de las emociones",
+        "precio_cop": 115000,
+        "precio_usd": 27.00,
+        "imagen": "assets/img/MonstruosDeLasEmociones.jpg"
       }
     ]
   }
