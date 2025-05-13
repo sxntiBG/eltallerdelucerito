@@ -65,6 +65,12 @@
         "precio_cop": 115000,
         "precio_usd": 27.00,
         "imagen": "assets/img/MonstruosDeLasEmociones.jpg"
+      },
+      {
+        "nombre": "Bolsillero de Rutinas",
+        "precio_cop": 105000,
+        "precio_usd": 25.00,
+        "imagen": "assets/img/bolsilleroRutinas.jpg"
       }
     ]
   }
